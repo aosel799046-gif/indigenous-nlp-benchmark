@@ -1,4 +1,4 @@
-## contributor : Usman Abdulsalam saba 
+## contributor : Aliyu Abdulrazak madugu
 
 # Indigenous NLP Benchmark
 
